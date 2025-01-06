@@ -32,6 +32,8 @@ This is a **Java-based e-commerce application** designed for managing products, 
 ## To ENABLE GOOGLE OAUTH2
 1. ADD CLIENT ID AND SECRET KEY TO application.properties 
 
+##  Enable Mail 
+1. Add your mail configuration in application.properties to use mail features in the api.
 ---
 
 ## Getting Started
